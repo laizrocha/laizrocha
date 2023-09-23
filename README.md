@@ -6,7 +6,7 @@
 
 Formada em Administração e atualmente cursando pós graduação em Engenharia de Software com Enfâse em Teste e Qualidade de Software.
 
-Estou me dedicando na migração de carreira realizando diversos cursos ligados a área tecnologia com foco em Qualidade e Teste de Software, sou aluna do Projeto Qa.Coders que esta sendo crucial nesse processo.
+Estou me dedicando na migração de carreira realizando diversos cursos ligados a área tecnologia com foco em Qualidade e Teste de Software, sou aluna do projeto Qa.Coders e da plataforma de ensino Qualiter Club que estam me proporcionando uma base técnica e prártica e está sendo fundamental nesse processo.
 
 Sou membro da comunidade "Cantinho das mulheres Q.As 🐞 ", ambiente onde são feitas trocas de informações, muitas dicas sobre a área e apoio de forma geral as participantes.
 
